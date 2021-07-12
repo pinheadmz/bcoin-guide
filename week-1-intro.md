@@ -2,6 +2,8 @@
 
 ## Introduction materials
 
+SF Bitcoin Developers Presentation: https://www.youtube.com/watch?v=MGm54LZ1T50
+
 SF NodeJS Meetup Presentation: https://www.youtube.com/watch?v=i9w7U4onn0M
 
 Project Homepage with guides and API docs: https://bcoin.io/
