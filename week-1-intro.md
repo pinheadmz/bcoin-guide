@@ -1,5 +1,13 @@
 # Week 1: Intro to bcoin
 
+## Introduction materials
+
+SF NodeJS Meetup Presentation: https://www.youtube.com/watch?v=i9w7U4onn0M
+
+Project Homepage with guides and API docs: https://bcoin.io/
+
+Stack Exchange questions about bcoin: https://bitcoin.stackexchange.com/search?q=bcoin
+
 ## Clone and install bcoin
 
 https://github.com/bcoin-org/bcoin/blob/master/docs/getting-started.md
