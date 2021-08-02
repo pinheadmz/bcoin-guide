@@ -217,3 +217,8 @@ https://github.com/sipa/bech32/blob/master/ref/javascript/segwit_addr.js
 
 Remember that witness version 0 addresses are always bech32, and any other
 version is bech32m.
+
+8. When you have it all working, you will need to open TWO pull requests
+  - adding bech32m support in JavaScript to bcrypto
+  - add bech32m sending support to bcoin
+
