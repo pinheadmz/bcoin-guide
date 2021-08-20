@@ -49,7 +49,7 @@ Base58 p2pkh:
 
 Base58 p2sh:
   - address: `3Ftj6zuXhYaWmSC7jtsrJPtADtiWb9LUF2`
-  - output script: `OP_0 1c7b17c92ebb9171ba06877fe92acff2a6301f39`
+  - output script: `OP_HASH160 9bc8b64caf2a4c98e806e4aa3ce7550407d05cfd OP_EQUAL`
 
 bech32 p2pkh:
   - address: `bc1qjn3gredclhz3eqprlsuh4js066ygnnxmwmmeyu`
