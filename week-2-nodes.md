@@ -41,7 +41,8 @@ Using only default options (which will therefore target node #1, also set
 with default options), generate 100 blocks to your default wallet address:
 
 ```
-bcoin-cli rpc generatetoaddress 100 `bwallet-cli rpc getnewaddress`
+bcoin-cli rpc --network=regtest generatetoaddress 100 `bwallet-cli rpc --network=regtest getnewaddress`
+
 ```
 
 Notice the second command embedded using backticks - do you understand what's happening?
