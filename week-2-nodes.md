@@ -27,7 +27,7 @@ node in its own space, add these options:
 ```
 bcoin \
   --network=regtest \
-  --prefix=~/.bcoin/regtest-2 \
+  --prefix=~/.bcoin/regtest \
   --port=10000 \
   --http-port=20000 \
   --wallet-http-port=30000
