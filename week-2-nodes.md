@@ -21,7 +21,7 @@ bcoin --network=regtest
 ```
 
 You should get an error here, either that the data directory is already in use
-or that the http / p2p ports are in use (by the first node). Two run the second
+or that the http / p2p ports are in use (by the first node). To run the second
 node in its own space, add these options:
 
 ```
