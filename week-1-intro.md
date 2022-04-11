@@ -49,7 +49,7 @@ bcoin --network=regtest
 
 This will start a bcoin full node in a local test mode with no peers and 0-difficulty mining.
 Remember, regtest mode is NOT REAL MONEY, so it's ok to make mistakes ;-)
-THe bcoin full node will be launched with default options but by reading through the configuration guide above
+The bcoin full node will be launched with default options but by reading through the configuration guide above
 you can see what other settings are available.
 
 In a second terminal window (or tmux pane), use the bcoin-cli tool to get node info:
